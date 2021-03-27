@@ -4,7 +4,7 @@
 
 ## Desarrollo Ejecución Proyecto
 
-Se debe agregar el archivo .../src/utils/constants.js y el siguiente código:
+Se debe agregar en el archivo .../src/utils/constants.js el siguiente código:
 
 ```
 export const API_HOST = 'https://0q27loouph.execute-api.us-east-1.amazonaws.com/';
